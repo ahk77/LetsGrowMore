@@ -1,2 +1,4 @@
 # LetsGrowMore
-Hi!!  I am glad to share with you all that I have successfully completed my #First_task as part of the Web Devlopment internship at LetsGrowMore. InternGrow™, InternGrow™ Team. It has been a great learning opportunity. Here are the details about the project and a short video of the implementation of my task  #Task_1: Create a single page website.      I want to thank LetsGrowMore Community &amp; Aman Kesarwani, Hemu Choudhary for offering me an internship opportunity!    #Domain: Web Devlopment Intern    #GitHub repository link :    #lgmvipaugust #reactjs #css #javascript #intern2021 #letsgrowmore
+Hi!!  I am glad to share with you all that I have successfully completed my #First_task as part of the Web Devlopment internship at LetsGrowMore. InternGrow™, InternGrow™ Team. It has been a great learning opportunity. 
+# Domain: Web Devlopment Intern
+# Task_1: Create a single page website.
